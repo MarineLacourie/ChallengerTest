@@ -13,5 +13,3 @@ public class FirstTest {
         assertTrue(driver.getTitle().contentEquals("Challenger Singapore"));
     }
 }
-
-//HOW DO I KNOW IT PASSED?
